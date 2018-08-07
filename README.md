@@ -18,4 +18,4 @@ To run a model on the BreakHis dataset:
 
 To run the Cifar-10 dataset:
 - 1 download the Cifar-10 dataset and put it in a folder in the location ../Datasets
-- 2 python Cifar_Main.py *initial learning rate* 1
+- 2 python Cifar_Main.py "initial learning rate" 1
