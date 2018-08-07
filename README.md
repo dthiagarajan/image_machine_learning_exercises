@@ -6,7 +6,7 @@ Some implementation ideas are learned from:
 - https://github.com/kuangliu/pytorch-cifar
 - https://github.com/xternalz/WideResNet-pytorch
 
-During the implementation, many thanks for sharing their code
+many thanks to them for sharing their code
 
 The accuracies of PreActResNet, WideResNet and PyramidNet on the [Cifar-10](https://www.cs.toronto.edu/~kriz/cifar.html) dataset matches the numbers in the paper.
 
