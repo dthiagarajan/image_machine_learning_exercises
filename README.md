@@ -1,5 +1,7 @@
 # image_machine_learning_exercises
 
+My implementation of several popular deep learning image classification algorithms and applying them to Cifar-10 and medical images.
+
 Some implementation ideas are learned from:
 - https://github.com/jhkim89/PyramidNet
 - https://github.com/hysts/pytorch_image_classification
