@@ -17,7 +17,7 @@ On the [BreakHis](https://web.inf.ufpr.br/vri/databases/breast-cancer-histopatho
 To run a model on the BreakHis dataset:
 - 1 download the BreakHis dataset and put it in a folder in the location ../Datasets
 - 2 bash run_Net.sh
-- 3 after the first run, you can change the run_Net.sh file into: python Histology_Main.py 1 0.5 0 0.1 1 1, to save data reading time
+- 3 after the first run, you can change the run_Net.sh file to: python Histology_Main.py 1 0.5 0 0.1 1 1, to save data reading time
 
 To run the Cifar-10 dataset:
 - 1 download the Cifar-10 dataset and put it in a folder in the location ../Datasets
