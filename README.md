@@ -1,6 +1,6 @@
 # image_machine_learning_exercises
 
-Many ideas are borrowed from:
+Some implementation ideas are learned from:
 - https://github.com/jhkim89/PyramidNet
 - https://github.com/hysts/pytorch_image_classification
 - https://github.com/kuangliu/pytorch-cifar
