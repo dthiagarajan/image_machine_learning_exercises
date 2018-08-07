@@ -13,9 +13,14 @@ from Cifar_Net import *
 from PreAct_Res_Net import *
 from Wide_Res_Net import *
 from Pyramid_Net import *
-from Incept_PreAct_Res_Net import *
 
-sys.path.append('../Common_Code/')
+sys.path.append('/home/liuchengyu/Documents/pytorch_NTM/')
+from Controller import *
+
+sys.path.append('/home/liuchengyu/Documents/pytorch_DNTM/')
+from DiffController import *
+
+sys.path.append('/home/liuchengyu/Documents/Common_Code/')
 from python_methods_image import *
 
 weight_decay = 5e-4
