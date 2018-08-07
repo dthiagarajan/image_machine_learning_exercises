@@ -151,7 +151,7 @@ def five_point_crop_mirror_mat(img_mat, crop_l, crop_w):
                      for i in range(0, len(img_mat))])
 
 
-# unit test for rescaling
+# test for rescaling
 '''
 from PIL import Image
 a = read_img_dirlist([pa_2, pa_1], "png")
@@ -163,7 +163,7 @@ img = Image.fromarray(b[0], 'RGB')
 img.show()
 '''
 
-# unit test for cropping
+# test for cropping
 '''
 from PIL import Image
 a = read_img_dirlist([pa_2, pa_1], "png")
