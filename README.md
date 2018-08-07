@@ -12,7 +12,7 @@ many thanks to them for sharing their code
 
 The accuracies of PreActResNet, WideResNet and PyramidNet on the [Cifar-10](https://www.cs.toronto.edu/~kriz/cifar.html) dataset matches the numbers in the paper.
 
-On the [BreakHis](https://web.inf.ufpr.br/vri/databases/breast-cancer-histopathological-database-breakhis/) dataset (we use the 400X dataset), the accuracy is ~93-95% on testing data (traing/testing ratio 70%/30%) using PreActResNet18.
+On the [BreakHis](https://web.inf.ufpr.br/vri/databases/breast-cancer-histopathological-database-breakhis/) dataset (we use the 400X dataset), the accuracy is ~93-95% on testing data (traing/testing ratio 70%/30%) during multiple runs using PreActResNet18 as the model.
 
 To run a model on the BreakHis dataset:
 - 1 download the BreakHis dataset and put it in a folder in the location ../Datasets
